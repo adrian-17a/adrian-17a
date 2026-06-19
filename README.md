@@ -18,15 +18,4 @@
 
 <br>
 
-## GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrian-17a&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrian-17a&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-17a&theme=github-dark-blue&hide_border=true" />
-</p>
-
-</div>
