@@ -17,3 +17,16 @@
 </p>
 
 </div>
+
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adrian-17a&show_icons=true&theme=github_dark" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-17a&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-17a&theme=github_dark" />
+</p>
