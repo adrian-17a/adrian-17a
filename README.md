@@ -30,5 +30,5 @@
 <br><br>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-17a&theme=github-dark-blue&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-17a&layout=compact&theme=github_dark" />
 </div>
