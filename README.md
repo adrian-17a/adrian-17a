@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
@@ -18,7 +18,7 @@
 
 <br>
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrian-17a&theme=github_dark" />
