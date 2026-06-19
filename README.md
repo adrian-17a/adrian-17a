@@ -16,25 +16,17 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 </p>
 
-</div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrian-17a&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-17a&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
 <br>
 
-<div align="center">
+# 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-17a&theme=github-dark-blue&hide_border=true"/>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrian-17a&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrian-17a&theme=github_dark" />
+</p>
 
-</div>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrian-17a&theme=github-dark-blue&hide_border=true" />
+</p>
 
 </div>
